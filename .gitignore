@@ -1,0 +1,4 @@
+node_modules/
+public/
+deploy.bat
+db.json
